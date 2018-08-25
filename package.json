@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "async": "^2.6.1",
+    "jimp": "^0.3.5",
+    "mkdirp": "^0.5.1",
+    "qr-image": "^3.2.0",
+    "sharp": "^0.20.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "poster-generator",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
